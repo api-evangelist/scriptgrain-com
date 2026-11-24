@@ -1,4 +1,4 @@
-# scriptgrain-com
+# ScriptGrain
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,152 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-scriptgrain-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://scriptgrain.com/
+ScriptGrain provides AI-powered writing tools that create content in a user’s unique voice. Users can generate drafts, blog posts, emails, and social media copy that match their personal style, with support for integrations like ChatGPT and Claude. The platform offers a free tier with one voice profile and draft, and paid plans with additional voices, tools, and API access for developers.
+
+**Areas:** AI · Writing · Voice · Content Generation · SaaS
+
+## ScriptGrain on APIs.io
+
+Everything profiled for ScriptGrain is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/scriptgrain-com/](https://apis.io/providers/scriptgrain-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (13)
+
+- [ScriptGrain Billing API](https://apis.io/apis/scriptgrain-com/scriptgrain-com-billing-api/) — Subscription state and Stripe-hosted links. Never plan-gated; nothing here moves money through the API.
+- [ScriptGrain Brand voice API](https://apis.io/apis/scriptgrain-com/scriptgrain-com-brand-voice-api/) — A brand profile built from a public website.
+- [ScriptGrain Brief templates API](https://apis.io/apis/scriptgrain-com/scriptgrain-com-brief-templates-api/) — Saved briefs to start the next piece from.
+- [ScriptGrain Companies API](https://apis.io/apis/scriptgrain-com/scriptgrain-com-companies-api/) — Company and product context that grounds a draft in real facts.
+- [ScriptGrain Discovery API](https://apis.io/apis/scriptgrain-com/scriptgrain-com-discovery-api/) — The API's own index of its routes.
+- [ScriptGrain Guest sessions API](https://apis.io/apis/scriptgrain-com/scriptgrain-com-guest-sessions-api/) — Keyless sessions for agents whose person has no account yet.
+- [ScriptGrain Jobs API](https://apis.io/apis/scriptgrain-com/scriptgrain-com-jobs-api/) — Background jobs for long drafts, polish and humanize.
+- [ScriptGrain Page rewrite API](https://apis.io/apis/scriptgrain-com/scriptgrain-com-page-rewrite-api/) — Rewrite a public page's copy in a profile's voice, block by block (paid plans).
+- [ScriptGrain Profiles API](https://apis.io/apis/scriptgrain-com/scriptgrain-com-profiles-api/) — Voice profiles, built from a person's or brand's own writing. Each one is the 45-attribute object every other endpoint reads.
+- [ScriptGrain Scoring API](https://apis.io/apis/scriptgrain-com/scriptgrain-com-scoring-api/) — Free measurements of any text, against a profile or with none.
+- [ScriptGrain Voice Brain API](https://apis.io/apis/scriptgrain-com/scriptgrain-com-voice-brain-api/) — A profile's memory of the ideas, claims, stories and frameworks its writing has covered.
+- [ScriptGrain Voice monitor API](https://apis.io/apis/scriptgrain-com/scriptgrain-com-voice-monitor-api/) — Monthly drift checks on published pages, against a profile (paid plans).
+- [ScriptGrain Writing API](https://apis.io/apis/scriptgrain-com/scriptgrain-com-writing-api/) — Outlines, drafts, polish, humanize, history, edits and draft versions.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [ScriptGrain Agentic Access](https://apis.io/agentic-access/scriptgrain-com/scriptgrain-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [Company](https://apis.io/schemas/scriptgrain-com/scriptgrain-com-company/)
+- [GenerationStreamFrame](https://apis.io/schemas/scriptgrain-com/scriptgrain-com-generation-stream-frame/)
+- [MemorySummary](https://apis.io/schemas/scriptgrain-com/scriptgrain-com-memory-summary/)
+- [NoveltyResponse](https://apis.io/schemas/scriptgrain-com/scriptgrain-com-novelty-response/)
+- [OutlineRequest](https://apis.io/schemas/scriptgrain-com/scriptgrain-com-outline-request/)
+- [ProfileDetail](https://apis.io/schemas/scriptgrain-com/scriptgrain-com-profile-detail/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Scriptgrain Com Context](https://apis.io/jsonld/scriptgrain-com/scriptgrain-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [ScriptGrain API Rules](https://apis.io/rules/scriptgrain-com/scriptgrain-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [ScriptGrain Authentication](https://apis.io/security/scriptgrain-com/scriptgrain-com-authentication/)
+- [ScriptGrain Domain Security](https://apis.io/security/scriptgrain-com/scriptgrain-com-domain-security/)
+- [ScriptGrain Vulnerability Disclosure](https://apis.io/security/scriptgrain-com/scriptgrain-com-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [ScriptGrain Plans Pricing](https://apis.io/plans/scriptgrain-com/scriptgrain-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [ScriptGrain Rate Limits](https://apis.io/rate-limits/scriptgrain-com/scriptgrain-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://scriptgrain.com/)
+- [Documentation](https://scriptgrain.com/docs/mcp.md)
+- [Getting started](https://scriptgrain.com/docs/mcp)
+- [API reference](https://scriptgrain.com/llms.txt)
+- [Pricing](https://scriptgrain.com/pricing)
+- [Support](https://scriptgrain.com/support)
+- [Changelog](https://scriptgrain.com/whats-new)
+- [Blog](https://scriptgrain.com/blog)
+- [Security](https://scriptgrain.com/trust)
+- [Trust centre](https://scriptgrain.com/trust)
+- [Terms of service](https://scriptgrain.com/terms)
+- [Privacy policy](https://scriptgrain.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 68.1** — exemplar · rubric 0.27.0 · scored 2026-11-24
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 65.8 |
+| Contract governance | 79.1 |
+| Operational transparency | 54.7 |
+| Developer ergonomics | 61.2 |
+| Access clarity | 67.9 |
+
+**Agent readiness 51.9** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | partial |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 32.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/scriptgrain-com/](https://apis.io/providers/scriptgrain-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for ScriptGrain: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/scriptgrain-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
